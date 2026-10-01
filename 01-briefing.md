@@ -1,4 +1,4 @@
-# Briefing do Projeto — Vet Clinic
+# Briefing do Projeto — Vet Clinic 
 ## 1. Contexto
 O cliente é a Dr Camila, proprietária e veterinária da Focinho Feliz e conta com uma recepcionista para auxiliar nos agendamentos.
 
